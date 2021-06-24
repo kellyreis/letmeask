@@ -1,5 +1,3 @@
-# letmeask
-Projeto desenvolvido na missão ReactJS no NLW #06
 
 # Getting Started with Create React App
 
