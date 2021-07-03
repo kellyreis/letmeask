@@ -40,9 +40,6 @@ export function Home() {
         }
 
         history.push(`/rooms/${roomCode}`)
-
-
-
     }
 
     return (
